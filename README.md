@@ -20,4 +20,4 @@ The calculator is <b>NOT</b> suitable for patients with the following conditions
 - Currently receiving aspirin, other antiplatelet medication, or anticoagulant medication
 
 ## Input Parameters
-<img src="https://github.com/billy-nz/AspirinCVDBleed/blob/master/images/px_details.png?raw=true" width=400px>
+({{site.url}}/images/px_details.png)
