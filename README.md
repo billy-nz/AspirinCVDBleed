@@ -20,4 +20,4 @@ The calculator is <b>NOT</b> suitable for patients with the following conditions
 - Currently receiving aspirin, other antiplatelet medication, or anticoagulant medication
 
 ## Input Parameters
-({{site.url}}/images/px_details.png)
+![picture](/images/px_details.png)
