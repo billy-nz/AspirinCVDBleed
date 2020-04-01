@@ -3,6 +3,8 @@
 ## Description
 This is a web-based risk calculator using the bleeding risk equation developed by Selak et al (2019) and the general CVD risk equation developed by Pylypchuk et al (2018), to provides clinicians with an individualised estimate of the CVD benefit and bleeding harms of aspirin for their patients without established CVD. The aspirin benefit harm calculator presents the expected number of major bleeds caused and cardiovascular events avoided with aspirin among patients without established cardiovascular disease (CVD).
 
+[Open Web Application](https://aspirinbenefitharmcalculator.shinyapps.io/calculator/)
+
 ## Details
 This calculator is based on sex-specific Cox proportional hazards models for predicting the 5-year risk of a first CVD event or a major 
 bleed using a contemporary cohort of over 385,000 people without established CVD who had CVD risk assessed in New Zealand primary care. 
